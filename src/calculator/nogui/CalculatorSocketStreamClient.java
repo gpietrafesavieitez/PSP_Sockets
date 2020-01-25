@@ -1,4 +1,4 @@
-package calculator;
+package calculator.nogui;
 
 import java.io.IOException;
 import java.io.InputStream;
